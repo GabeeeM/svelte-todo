@@ -1,6 +1,6 @@
 <script>
-	let text = '';
 	const regex = /\S/;
+	let text = '';
 	let tasks = [];
 
 	function handleSubmit(event) {
