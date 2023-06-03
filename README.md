@@ -1,38 +1,37 @@
-# create-svelte
+# The Mighty Svelte TODO App
+---
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+**There's something I'd like to unveil,**
+*It's a todo app built with Svelte, so swell.*
 
-## Creating a project
+---
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Dive in, let's take a lap!
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+**Have a glance, perhaps a clap,**
+*For this todo app on your roadmap.*
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+---
 
-## Developing
+### Cool as a cucumber, and neat as a nap,
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+**Manage your tasks, without any mishap,**
+*With this Svelte todo app, you'll never feel trapped.*
 
-```bash
-npm run dev
+---
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+#### How to get started?
 
-## Building
+**Just pull the code, give it a tap,**
+*In no time, you'll have the todo app on your app map.*
 
-To create a production version of your app:
+---
 
-```bash
-npm run build
-```
+##### Made with ❤️ and Svelte,
 
-You can preview the production build with `npm run preview`.
+**This app is sure to make hearts melt,**
+*It's more than cool, it's a new wavelength!*
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+---
+
+###### Happy coding! 👩‍💻👨‍💻
